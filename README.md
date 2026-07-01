@@ -13,7 +13,7 @@
 
 ## Attribution
 
-> These codes are adapted from research work by **Lamia Alam & Shane Mueller** on *modeling psychological impacts on epidemic spread while accounting for demographic networks*. This repository is used for teaching purposes in STA 3040A (Mathematical Modeling & Simulation).
+> These codes are adapted from research work by **Lamia Alam & Shane Mueller** on *modeling psychological impacts on epidemic spread while accounting for demographic networks*. This repository is used for training purposes in Mathematical Modeling & Simulation.
 
 ---
 
@@ -446,4 +446,4 @@ A: The probability that a given day's contact is drawn from the agent's own soci
 
 ---
 
-<p align="center"><i>Built for STA 3040A — Mathematical Modeling and Simulation</i></p>
+<p align="center"><i>Built for Mathematical Modeling and Simulation</i></p>
